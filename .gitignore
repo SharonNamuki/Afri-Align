@@ -1,0 +1,14 @@
+.env
+.env.local
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node (for when you build the React app)
+node_modules/
+dist/
